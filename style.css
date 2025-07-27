@@ -2,7 +2,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    background-color: #f5f5f5;
+    background-color: #f9eded;
 }
 /* Grid layout */
 .grid {
@@ -12,12 +12,12 @@ body {
     padding: 20px;
     max-width: 1000px;
     margin: auto;
-    background-color: #ffffff;
+    background-color: #e6dfdf;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 /* LEFT COLUMN styling */
 .left-column {
-    background-color: #e8f0fe;
+    background-color: #f4f7fd;
     border-radius: 8px;
     padding: 20px;
     text-align: center;
@@ -45,15 +45,15 @@ body {
     padding: 20px;
 }
 .right-column h2 {
-    color: #333;
-    border-bottom: 2PX solid #ddd;
+    color: #323232;
+    border-bottom: 2PX solid #dcdada;
     padding-bottom: 5px;
     margin-top: 0;
 }
 .right-column ul {
     padding-left: 20px;
     line-height: 1.6;
-    color: #555;
+    color: #5c5c5c;
 }
 .right-column li {
     margin-bottom: 8px;
