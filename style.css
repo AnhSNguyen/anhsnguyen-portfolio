@@ -69,3 +69,24 @@ body {
 section {
     margin-bottom: 30px;
 }
+
+/* mobile adjustment */
+@media screen and (max-width: 768px) {
+   .grid {
+    grid-template-column: 1fr; /* stack column on small screen */
+   } 
+
+
+.left-column img {
+    width: 80px;
+    height: 80px;
+}
+
+.left-column h1 {
+    font-size: 1.2em;
+}
+
+body {
+    font-size: 16px; /* slightly bigger for mobile readability */
+}
+}
